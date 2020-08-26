@@ -24,7 +24,7 @@ secretGenerator:
 
 # !!! If you want to customize the namespace,
 # please also update sample/cluster-scoped-resources/kustomization.yaml's namespace field to the same value
-namespace: kubeflow
+namespace: deployments
 
 #### Customization ###
 # 1. Change values in params.env file
